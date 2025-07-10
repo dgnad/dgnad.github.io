@@ -3,32 +3,32 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Under construction",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-teaching",
+  },{id: "nav-teaching",
           title: "teaching",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-thesis-topics",
+          title: "thesis topics",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/thesis_topics/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -378,6 +378,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-joined-heidelberg-university-as-a-lecturer-akademischer-rat",
           title: 'I joined Heidelberg University as a lecturer (Akademischer Rat).',
+          description: "",
+          section: "News",},{id: "news-our-paper-axsat-bringing-axioms-to-sat-planning-got-accepted-at-jelia-2025",
+          title: 'Our paper “AxSAT - Bringing Axioms to SAT Planning” got accepted at JELIA...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
