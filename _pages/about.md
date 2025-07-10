@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: 
 
@@ -12,9 +12,11 @@ profile:
     <p>Room 2/203</p>
     <p>Im Neuenheimer Feld 205</p>
     <p>69120 Heidelberg</p>
+    <p>+49 6221 54 14365</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+uni_logo: true # show university logo at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
