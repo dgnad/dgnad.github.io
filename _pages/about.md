@@ -29,6 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+# Fundamentals of Intelligent Planning
+
 I am lecturer at the [Institute of Computer Science](https://www.ifi.uni-heidelberg.de/) at Heidelberg University and assistant professor at [Linköping University](https://mrlab.ai/daniel-gnad/). 
 
 I did my studies in Computer Science at Saarland University. After finishing my MSc. degree, I stayed on as a PhD student in the group of Prof. Jörg Hoffmann. In 2022, I joined the Machine Reasoning Lab at Linköping University as a postdoctoral researcher, where I became assistant professor in 2023. In June 2025 I obtained my docent qualification (Swedish Habilitation) at Linköping University. Since May 2025 I am lecturer in Heidelberg and part-time in Linköping.
