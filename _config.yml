@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Daniel Gnad - Heidelberg University # the website title (if blank, full name will be used instead)
+title: Fundamentals of Intelligent Planning - Heidelberg University # the website title (if blank, full name will be used instead)
+title_short: Fundamentals of Intelligent Planning
 first_name: Daniel
 middle_name:
 last_name: Gnad

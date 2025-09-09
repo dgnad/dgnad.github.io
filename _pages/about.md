@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Fundamentals of Intelligent Planning
+## Daniel Gnad
 
 I am lecturer at the [Institute of Computer Science](https://www.ifi.uni-heidelberg.de/) at Heidelberg University and assistant professor at [Linköping University](https://mrlab.ai/daniel-gnad/). 
 
