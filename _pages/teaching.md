@@ -14,6 +14,7 @@ Please register for the course (and the exercises!) in [HeiCO](https://heico.uni
 
 * __Seminar: Neuro-symbolic Artificial Intelligence__ <br>
 An introductory session will be held in the first week of the semester. Time and room will be published here, soon.
+Papers are available [here](https://heibox.uni-heidelberg.de/d/5c418f3a15284bcba2bf/), the password will be shared in the intro meeting.
 
 * __Practical: AI Planning__ <br>
 An introductory session will be held in the first week of the semester. Time and room will be published here, soon.
