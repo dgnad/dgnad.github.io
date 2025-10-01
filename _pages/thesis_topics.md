@@ -2,7 +2,7 @@
 layout: page
 title: thesis topics
 permalink: /thesis_topics/
-description: 
+description:
 nav: true
 nav_order: 2
 horizontal: false
