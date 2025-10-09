@@ -14,7 +14,8 @@ In the winter term 2025/26, I offer the following courses. Further details will 
 
 - **Seminar: Neuro-symbolic Artificial Intelligence** <br>
   The introductory session will be held on Wednesday, October 15, 13:00-13:30, in seminar room SR C, INF 205.
-  Papers are available [here](https://heibox.uni-heidelberg.de/d/5c418f3a15284bcba2bf/), the password will be shared in the intro meeting.
+  Info and papers are available [here](https://heibox.uni-heidelberg.de/d/5c418f3a15284bcba2bf/), the password will be shared in the intro meeting.
 
 - **Practical: AI Planning** <br>
   The introductory session will be held on Wednesday, October 15, 13:30-14:00, in seminar room SR C, INF 205.
+  Info about the organization and projects are available [here](https://heibox.uni-heidelberg.de/d/540e8bbc91d34bf69122/), the password will be shared in the intro meeting.
