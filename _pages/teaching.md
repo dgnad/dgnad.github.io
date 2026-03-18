@@ -7,19 +7,19 @@ nav: true
 nav_order: 1
 ---
 
-In the summer term 2026, I offer the following courses. 
+In the summer term 2026, I offer the following courses.
 
 - Lecture: **Automated Planning** <br>
   The first lecture takes place on April 15, 11:15, in building INF 205, seminar room SR 2.
-  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material. 
-  
-  *Outline:* This course introduces automated planning as a framework for solving sequential decision-making problems in areas such as robotics and optimization. Students learn to model planning problems using standard formalisms, implement search algorithms and heuristics, and apply them to find solutions. The course covers heuristic search techniques, structural analysis, and symbolic approaches such as SAT-based planning. It also explores the complexity of planning problems and methods for improving search efficiency.
-  
+  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material.
+
+  _Outline:_ This course introduces automated planning as a framework for solving sequential decision-making problems in areas such as robotics and optimization. Students learn to model planning problems using standard formalisms, implement search algorithms and heuristics, and apply them to find solutions. The course covers heuristic search techniques, structural analysis, and symbolic approaches such as SAT-based planning. It also explores the complexity of planning problems and methods for improving search efficiency.
+
 - Lecture: **Model Checking** <br>
   The first lecture takes place on April 17, 11:15, in building INF 205, seminar room SR C.
-  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material. 
-  
-  *Outline:* Model checking is a method for verifying software systems using abstract models. Students learn to model concurrent systems with automata, specify safety and liveness properties, and apply model checking algorithms to verify them. The course covers transition systems, concurrency and communication, as well as the complexity and expressiveness of verification formalisms. It also includes state-space reduction techniques and symbolic model checking.
+  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material.
+
+  _Outline:_ Model checking is a method for verifying software systems using abstract models. Students learn to model concurrent systems with automata, specify safety and liveness properties, and apply model checking algorithms to verify them. The course covers transition systems, concurrency and communication, as well as the complexity and expressiveness of verification formalisms. It also includes state-space reduction techniques and symbolic model checking.
 
 - Seminar: **Explainable AI Planning** <br>
   The introductory session will be held on Tuesday, April 14, 13:00-13:30, in seminar room SR A, INF 205.
@@ -27,11 +27,10 @@ In the summer term 2026, I offer the following courses.
 
 - Practical: **AI Planning** <br>
   The introductory session will be held on Tuesday, April 14, 13:30-14:00, in seminar room SR A, INF 205.
-  Please attend this session if you want to participate in the practical. No prior registration is needed. 
-
+  Please attend this session if you want to participate in the practical. No prior registration is needed.
 
 <br><br><br><br>
-  
+
 **Previous semesters:**
 
 Winter term 2025/26:
