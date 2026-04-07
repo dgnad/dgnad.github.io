@@ -11,13 +11,13 @@ In the summer term 2026, I offer the following courses.
 
 - Lecture: **Automated Planning** <br>
   The first lecture takes place on April 15, 11:15, in building INF 205, seminar room SR 2.
-  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material.
+  Please register for the course (and the exercises!) in HeiCO. We will use [MaMpf](https://mampf.mathi.uni-heidelberg.de/lectures/296) for the lecture material.
 
   _Outline:_ This course introduces automated planning as a framework for solving sequential decision-making problems in areas such as robotics and optimization. Students learn to model planning problems using standard formalisms, implement search algorithms and heuristics, and apply them to find solutions. The course covers heuristic search techniques, structural analysis, and symbolic approaches such as SAT-based planning. It also explores the complexity of planning problems and methods for improving search efficiency.
 
 - Lecture: **Model Checking** <br>
   The first lecture takes place on April 17, 11:15, in building INF 205, seminar room SR C.
-  Please register for the course (and the exercises!) in HeiCO. We will use MaMpf for the lecture material.
+  Please register for the course (and the exercises!) in HeiCO. We will use [MaMpf}(https://mampf.mathi.uni-heidelberg.de/lectures/297) for the lecture material.
 
   _Outline:_ Model checking is a method for verifying software systems using abstract models. Students learn to model concurrent systems with automata, specify safety and liveness properties, and apply model checking algorithms to verify them. The course covers transition systems, concurrency and communication, as well as the complexity and expressiveness of verification formalisms. It also includes state-space reduction techniques and symbolic model checking.
 
