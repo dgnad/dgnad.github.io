@@ -24,10 +24,12 @@ In the summer term 2026, I offer the following courses.
 - Seminar: **Explainable AI Planning** <br>
   The introductory session will be held on Tuesday, April 14, 13:00-13:30, in seminar room SR A, INF 205.
   Please attend this session if you want to participate in the seminar. No prior registration is needed. The course will be organized as a block seminar at the end of the semester.
+  Further information is available [here](https://heibox.uni-heidelberg.de/d/74d06ac9e03a4b9a8970/), the password is shared in the introductory session.
 
 - Practical: **AI Planning** <br>
   The introductory session will be held on Tuesday, April 14, 13:30-14:00, in seminar room SR A, INF 205.
   Please attend this session if you want to participate in the practical. No prior registration is needed.
+  Further information is available [here](https://heibox.uni-heidelberg.de/d/1b3b59c899c548248ba1/), the password is shared in the introductory session.
 
 <br><br><br><br>
 
