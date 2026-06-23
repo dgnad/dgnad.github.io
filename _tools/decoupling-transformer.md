@@ -17,5 +17,5 @@ evaluation are described in our ICAPS 2024 paper {% cite speck-gnad-icaps2024 %}
 The implementation is available on
 [GitHub](https://github.com/speckdavid/decoupling-transformer).
 
-See also [Decoupling Transformer SAT](/projects/decoupling-transformer-sat/),
+See also [Decoupling Transformer SAT](/tools/decoupling-transformer-sat/),
 which extends this work with SAT-based planning.

@@ -18,5 +18,5 @@ described in our JELIA 2025 paper {% cite behnke-et-al-jelia2025 %}.
 The implementation is available on
 [GitHub](https://github.com/galvusdamor/decoupling-transformer-sat).
 
-It is built on top of the [Decoupling Transformer](/projects/decoupling-transformer/)
+It is built on top of the [Decoupling Transformer](/tools/decoupling-transformer/)
 project.

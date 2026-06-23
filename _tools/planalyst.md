@@ -18,5 +18,5 @@ paper {% cite speck-et-al-aaai2025 %}.
 The implementation is available on
 [GitHub](https://github.com/speckdavid/planalyst).
 
-See also the related [PlanPilot](/projects/planpilot/) project for interactive
+See also the related [PlanPilot](/tools/planpilot/) project for interactive
 exploration of plan spaces.

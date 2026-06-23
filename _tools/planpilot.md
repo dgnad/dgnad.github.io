@@ -27,5 +27,5 @@ Demo videos:
 [video 1](https://youtu.be/stovYamkur0),
 [video 2](https://youtu.be/75UngGNr5bc).
 
-See also the related [Planalyst](/projects/planalyst/) project for counting and
+See also the related [Planalyst](/tools/planalyst/) project for counting and
 reasoning about plans.
