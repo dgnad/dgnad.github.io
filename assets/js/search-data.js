@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-tools",
+          title: "tools",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/tools/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -403,11 +410,26 @@ ninja.data = [{
           section: "News",},{id: "news-we-have-two-papers-accepted-at-socs-2026",
           title: 'We have two papers accepted at SoCS 2026.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+          section: "News",},{id: "tools-decoupling-transformer-sat",
+          title: 'Decoupling Transformer SAT',
+          description: "SAT-based planning with axioms, built on the Decoupling Transformer.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/decoupling-transformer-sat/";
+            },},{id: "tools-decoupling-transformer",
+          title: 'Decoupling Transformer',
+          description: "A task transformation that brings decoupled search to off-the-shelf classical planners.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/decoupling-transformer/";
+            },},{id: "tools-planalyst",
+          title: 'Planalyst',
+          description: "Counting and reasoning about the plans of a classical planning problem.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/planalyst/";
+            },},{id: "tools-planpilot",
+          title: 'PlanPilot',
+          description: "Interactive exploration of the plan space of classical planning problems.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/planpilot/";
             },},{
         id: 'social-email',
         title: 'email',
