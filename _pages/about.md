@@ -29,14 +29,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Our group studies **fundamental problems in planning**: how to build systems
+Our group studies **fundamental problems in planning**: how to build intelligent systems
 that automatically find a course of
 action that achieves a desired goal. Planning problems of this kind arise in
 robotics, logistics, scheduling, and industrial optimization, and the same
-techniques carry over to the verification of software and hardware systems.
+techniques carry over to the verification of computer systems.
 
 A common theme of our research is **exploiting the structure of a problem**,
-both to solve it more effectively and to understand its solutions. Concrete
+both to solve it more efficiently and to understand its solutions. Concrete
 topics we work on include:
 
 - **Explainable AI planning.** Rather than returning a single plan, we analyze
