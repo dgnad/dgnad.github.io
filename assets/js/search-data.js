@@ -433,6 +433,11 @@ ninja.data = [{
           description: "Interactive exploration of the plan space of classical planning problems.",
           section: "Tools",handler: () => {
               window.location.href = "/tools/planpilot/";
+            },},{id: "tools-planviz",
+          title: 'PlanViz',
+          description: "Web-based visualization of causal graphs, landmark graphs, and domain transition graphs of PDDL tasks.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/planviz/";
             },},{
         id: 'social-email',
         title: 'email',
