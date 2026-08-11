@@ -413,7 +413,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-team-won-all-three-tracks-in-the-snp-category-at-the-international-planning-competition-2027",
           title: 'Our team won all three tracks in the SNP category at the International...',
           description: "",
-          section: "News",},{id: "tools-decoupling-transformer-sat",
+          section: "News",},{id: "tools-count-downward",
+          title: 'Count Downward',
+          description: "Numeric planning with abstraction heuristics, participant of the International Planning Competition 2026.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/count-downward/";
+            },},{id: "tools-decoupling-transformer-sat",
           title: 'Decoupling Transformer SAT',
           description: "SAT-based planning with axioms, built on the Decoupling Transformer.",
           section: "Tools",handler: () => {
@@ -428,6 +433,11 @@ ninja.data = [{
           description: "Counting and reasoning about the plans of a classical planning problem.",
           section: "Tools",handler: () => {
               window.location.href = "/tools/planalyst/";
+            },},{id: "tools-planforge",
+          title: 'PlanForge',
+          description: "A numeric planner written in Rust that natively supports numeric variables.",
+          section: "Tools",handler: () => {
+              window.location.href = "/tools/planforge/";
             },},{id: "tools-planpilot",
           title: 'PlanPilot',
           description: "Interactive exploration of the plan space of classical planning problems.",
