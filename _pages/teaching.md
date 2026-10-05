@@ -10,17 +10,18 @@ nav_order: 1
 In the winter term 2026/27, I offer the following courses.
 
 - Lecture: **Artificial Intelligence** <br>
+  The first lecture takes place on October 14, 11:15, in the lecture hall in INF 205.
   Please register for the course (and the exercises!) in [HeiCO](https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/426490?). We will use [MaMpf](https://mampf.mathi.uni-heidelberg.de/lectures/318) for the tutorials and to publish the lecture material. 
   
   _Outline:_ This course gives a broad, hands-on introduction to the foundations of AI, focusing on rational acting: how to build systems that make good decisions using whatever computational methods are suitable. We start from intelligent agents and classical search (route finding, puzzles, bug hunting), move on to adversarial search, and then cover constraint satisfaction problems as a general framework for scheduling and configuration tasks. The second half is devoted to knowledge and reasoning — propositional and first-order logic, answer-set programming, knowledge representation, and automated planning as a universal language for action-choice problems. We close with the basics of machine learning and a look at neuro-symbolic AI, which combines symbolic reasoning with data-driven methods. 
 
 - Seminar: **Explainable AI Planning** <br>
-  The introductory session will be held on TBA, in seminar room TBA, INF 205.
-  Please attend this session if you want to participate in the seminar. No prior registration is needed. The course will be organized as a block seminar at the end of the semester.
+  The introductory session will be held on October 13, 13:00-13:30, in seminar room B, INF 205.
+  Please attend this session if you want to participate in the seminar. No prior registration is needed. The course will run on a weekly basis during the semester, the meeting is Thursdays, 16:15-18:00.
   Further information will be made available here, the password is shared in the introductory session.
 
 - Practical: **AI Planning** <br>
-  We offer beginners, advanced and Master practicals. The introductory session will be held on TBA, in seminar room TBA, INF 205.
+  We offer beginners, advanced and Master practicals. The introductory session will be held on October 13, 13:30-14:00, in seminar room B, INF 205.
   Please attend this session if you want to participate in the practical. No prior registration is needed.
   Further information will be made available here, the password is shared in the introductory session.
 
