@@ -17,8 +17,8 @@ In the winter term 2026/27, I offer the following courses.
 
 - Seminar: **Explainable AI Planning** <br>
   The introductory session will be held on October 13, 13:00-13:30, in seminar room B, INF 205.
-  Please attend this session if you want to participate in the seminar. No prior registration is needed. The course will run on a weekly basis during the semester, the meeting is Thursdays, 16:15-18:00.
-  Further information will be made available here, the password is shared in the introductory session.
+  Please attend this session if you want to participate in the seminar. No prior registration is needed. The course will run on a weekly basis during the semester, the meeting is Thursdays, 16:15-18:00 in SR 1 (first meeting Oct. 22).
+  Further information will be made available [here](https://heibox.uni-heidelberg.de/d/4335b13ff00948d0b93d/), the password is shared in the introductory session.
 
 - Practical: **AI Planning** <br>
   We offer beginners, advanced and Master practicals. The introductory session will be held on October 13, 13:30-14:00, in seminar room B, INF 205.
