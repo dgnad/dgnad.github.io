@@ -23,7 +23,7 @@ In the winter term 2026/27, I offer the following courses.
 - Practical: **AI Planning** <br>
   We offer beginners, advanced and Master practicals. The introductory session will be held on October 13, 13:30-14:00, in seminar room B, INF 205.
   Please attend this session if you want to participate in the practical. No prior registration is needed.
-  Further information will be made available here, the password is shared in the introductory session.
+  Further information will be made available [here](https://heibox.uni-heidelberg.de/d/bf90b7e318ac40de8f74/), the password is shared in the introductory session.
 
 <br><br><br><br>
 
