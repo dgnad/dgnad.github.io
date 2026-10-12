@@ -15,7 +15,7 @@ families of numeric abstraction heuristics: pattern databases
 {% cite fritzsche-et-al-socs2026b %}. Several planners built on this codebase
 participated in the International Planning Competition 2026, in the optimal,
 satisficing, and agile tracks. The sequential portfolios that combine these
-configurations and adds the numeric landmark-cut heuristic are called Count 
+configurations and adds the numeric landmark-cut heuristic are called Count
 Downward Together.
 
 The implementation is available on

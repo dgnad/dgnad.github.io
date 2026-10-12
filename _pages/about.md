@@ -40,14 +40,14 @@ both to solve it more efficiently and to understand its solutions. Concrete
 topics we work on include:
 
 - **Explainable AI planning.** Rather than returning a single plan, we analyze
-  and characterize the *solution space* of a task: counting plans, describing
+  and characterize the _solution space_ of a task: counting plans, describing
   what the alternatives have in common, and letting users navigate them
   interactively.
 - **Compact state space representations.** How can an exponential state space
   be represented compactly by exploiting the problem structure?
 - **Planning and machine learning.** Combining symbolic planning algorithms
   with learned components, for efficient grounding and solving.
-- **Domain-independent heuristics.** Novel model-based heuristics for planning as 
+- **Domain-independent heuristics.** Novel model-based heuristics for planning as
   search, including abstractions and systematic relaxation.
 - **Symbolic methods.** Encoding planning into SAT and answer set
   programming, and leveraging off-the-shelf solvers.

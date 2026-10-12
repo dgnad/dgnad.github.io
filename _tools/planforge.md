@@ -12,7 +12,7 @@ related_publications: false
 PlanForge is a planning system for numeric PDDL tasks. It grounds a task into a
 numeric SAS+ representation and searches for a sequential plan, keeping numeric
 fluents in the task so that search algorithms and heuristics can reason about
-numbers directly. It ships with a range of search algorithms and several heuristics. 
+numbers directly. It ships with a range of search algorithms and several heuristics.
 Both a planner (`planforge`) and a standalone translator (`planforge-translator`) are
 provided.
 
